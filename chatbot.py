@@ -1,6 +1,6 @@
 import google.generativeai as genai # pyright: ignore[reportMissingImports]
 
-GOOGLE_API_KEY = "AIzaSyD0KRgGK9SPt67KS_F_fFdzTHjxaLS-gNU"
+GOOGLE_API_KEY = "Your api key"
 MODEL_NAME = "gemini-1.5-flash"
 system_instruction = "You are a helpful and friendly AI assistant named Laila. Your goal is to provide accurate, concise, and useful information to the user's voice commands."
 
