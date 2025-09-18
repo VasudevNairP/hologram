@@ -1,0 +1,12 @@
+{
+    "default": 0,
+    "idle": 0,
+    "walking": 0,
+    "talking": 0,
+    "greeting": 13,
+    "helping": 13,
+    "thinking": 13,
+    "goodbye": 13,
+    "excited": 13,
+    "confused": 13
+}
